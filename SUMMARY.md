@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Video Game Code Guidebook](README.md)
+* [Code Introduction](README.md)
 
 ## TUTORIALS
 
