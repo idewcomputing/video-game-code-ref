@@ -13,4 +13,7 @@
 ## LINKS
 
 * [VG Project Guidebook](https://docs.idew.org/project-video-game/)
+* [Phaser Website](http://phaser.io/)
+* [Phaser 3 API](https://photonstorm.github.io/phaser3-docs/)
+* [Phaser CE API](https://photonstorm.github.io/phaser-ce/)
 
