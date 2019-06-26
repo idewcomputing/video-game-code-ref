@@ -17,4 +17,5 @@
 * [Phaser CE API](https://photonstorm.github.io/phaser-ce/)
 * [W3Schools JavaScript](https://www.w3schools.com/js/)
 * [Piskel Sprite Editor](https://www.piskelapp.com/)
+* [ChipTone Sound Effects Editor](http://sfbgames.com/chiptone/)
 
