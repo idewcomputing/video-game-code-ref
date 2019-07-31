@@ -1,7 +1,7 @@
 # Code Introduction
 
 {% hint style="danger" %}
-**UPDATE IN PROGRESS:** This new code guidebook will be a revision of the tutorials and references in the [previous project guidebook](https://docs.idew.org/video-game/project-references). Updates to this new code guidebook will be occurring during summer 2019.
+**UPDATE IN PROGRESS:** This new code guidebook will be a revision of the [tutorials](https://docs.idew.org/video-game/project-outline/1-5-phaser-practice-1-matching-game) and [references](https://docs.idew.org/video-game/project-references) in the previous project guidebook. Updates to this new code guidebook will be occurring during summer 2019.
 {% endhint %}
 
 {% tabs %}
