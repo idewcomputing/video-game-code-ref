@@ -1,4 +1,4 @@
-# A. Tutorial
+# A. Hello Phaser
 
 {% hint style="danger" %}
 **UPDATE IN PROGRESS:** This new code guidebook will have revised versions of the Phaser tutorials in the previous guidebook. In the meantime, you can still access the previous Phaser tutorials for creating example games:
@@ -9,4 +9,6 @@
 {% endhint %}
 
 TK - In Progress
+
+Create "Hello World" game that displays Phaser logo and changes background color when spacebar is pressed
 

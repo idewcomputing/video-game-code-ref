@@ -15,9 +15,13 @@ The main goals of the tutorials are to help students become familiar with the:
 * options and constraints that Phaser has \(to make it easier to design their own game\)
 * structure and syntax of Phaser JS code \(to make it easier to code their own game\)
 
-Tutorials will be revised, so that students can complete them in 10-15 hours \(2-3 weeks\). Students should complete at least 2 tutorials: an introductory game, and a more complex game.
+Tutorials will be revised, so that students can complete them in 10-15 hours \(2-3 weeks\). Students should complete at least 3 tutorials:
 
-Multiple tutorials might be offered, so that teachers and/or students can choose which tutorials to complete \(especially for the 2nd game\). Students could choose to complete additional tutorials to gain further experience \(could also be done as ongoing side task in parallel to other project assignments\). This would be especially helpful for any students that may become their team's primary coder.
+* a "Hello World" exercise \(introduction to getting Phaser running\)
+* a simple game \(Emoji Match - similar to slot machine\)
+* a more complex game \(selected from several available options\)
+
+Multiple tutorials might be offered, so that teachers and/or students can choose which tutorials to complete \(especially for the final tutorial\). Students could choose to complete additional tutorials to gain further experience \(could also be done as ongoing side task in parallel to other project assignments\). This would be especially helpful for any students that may become their team's primary coder.
 
 Other possibilities for tutorials:
 

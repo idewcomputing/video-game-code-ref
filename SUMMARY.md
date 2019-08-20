@@ -4,7 +4,12 @@
 
 ## TUTORIALS
 
-* [A. Tutorial](tutorials/a.-tutorial.md)
+* [A. Hello Phaser](tutorials/a.-hello-phaser.md)
+* [B. Matching Game](tutorials/b.-matching-game.md)
+* [C. Top-Down Game](tutorials/c.-top-down-game.md)
+* [D. Side-Scrolling Game](tutorials/d.-side-scrolling-game.md)
+* [E. Create Animated Sprite](tutorials/e.-create-animated-sprite.md)
+* [F. Create Sound Effect](tutorials/f.-create-sound-effect.md)
 
 ## REFERENCES
 
