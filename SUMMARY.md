@@ -8,8 +8,8 @@
 * [B. Matching Game](tutorials/b.-matching-game.md)
 * [C. Top-Down Game](tutorials/c.-top-down-game.md)
 * [D. Side-Scrolling Game](tutorials/d.-side-scrolling-game.md)
-* [E. Create Animated Sprite](tutorials/e.-create-animated-sprite.md)
-* [F. Create Sound Effect](tutorials/f.-create-sound-effect.md)
+* [E. Animated Sprite](tutorials/e.-animated-sprite.md)
+* [F. Sound Effect](tutorials/f.-sound-effect.md)
 
 ## REFERENCES
 

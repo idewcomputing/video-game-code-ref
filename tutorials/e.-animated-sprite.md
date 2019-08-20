@@ -1,6 +1,6 @@
-# E. Create Animated Sprite
+# E. Animated Sprite
 
-TK - in progess
+TK - in progress
 
 How to use Piskel web app to create spritesheet frames for animated sprite
 
