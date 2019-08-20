@@ -21,6 +21,6 @@
 * [Phaser CE API Code Reference](https://photonstorm.github.io/phaser-ce/)
 * [Phaser CE Code Examples](http://phaser.io/examples/v2)
 * [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/)
-* [Piskel Sprite Editor](https://www.piskelapp.com/)
-* [ChipTone Sound Effects Editor](http://sfbgames.com/chiptone/)
+* [Piskel Animated Sprite Editor](https://www.piskelapp.com/)
+* [Leshy Sound FX Maker](https://www.leshylabs.com/apps/sfMaker/)
 
