@@ -1,4 +1,4 @@
-# A-1 Create Blank Files
+# A-1 Create New Files
 
 A Phaser game runs in a web browser. Your Phaser game will consist of an HTML file named`index.html`, a CSS file named `style.css`, and a JavaScript file named `script.js`.
 

@@ -5,7 +5,7 @@
 ## TUTORIALS
 
 * [A. Hello Phaser](tutorials/hello-phaser/README.md)
-  * [A-1 Create Blank Files](tutorials/hello-phaser/a-1-create-blank-files.md)
+  * [A-1 Create New Files](tutorials/hello-phaser/a-1-create-blank-files.md)
 * [B. Matching Game](tutorials/matching-game.md)
 * [C. Top-Down Game](tutorials/top-down-game.md)
 * [D. Side-Scrolling Game](tutorials/side-scrolling-game.md)
