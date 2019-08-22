@@ -8,7 +8,14 @@
 * [Phaser Practice 3:  Side-Scrolling Game \(Platformer\)](https://docs.idew.org/video-game/project-outline/1-7-phaser-practice-3-side-scrolling-game)
 {% endhint %}
 
-TK - In Progress
+In this first tutorial, you'll code a "Hello World" game that displays the Phaser logo and changes the game's background color when the spacebar is pressed.
 
-Create "Hello World" game that displays Phaser logo and changes background color when spacebar is pressed
+This won't be a true game \(because it lacks an objective, rules, etc.\). However, it will introduce you to coding with the Phaser CE game framework.
+
+## Tutorial Goals  <a id="tutorial-goals"></a>
+
+The goals of this tutorial are to help you:
+
+* Understand the basic code structure of a Phaser CE game
+* Code a Hello World game with a simple player interaction
 
