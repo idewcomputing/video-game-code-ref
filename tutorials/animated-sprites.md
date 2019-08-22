@@ -1,4 +1,4 @@
-# E. Animated Sprite
+# E. Animated Sprites
 
 TK - in progress
 

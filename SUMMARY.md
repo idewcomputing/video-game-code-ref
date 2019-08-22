@@ -4,12 +4,12 @@
 
 ## TUTORIALS
 
-* [A. Hello Phaser](tutorials/a.-hello-phaser.md)
-* [B. Matching Game](tutorials/b.-matching-game.md)
-* [C. Top-Down Game](tutorials/c.-top-down-game.md)
-* [D. Side-Scrolling Game](tutorials/d.-side-scrolling-game.md)
-* [E. Animated Sprite](tutorials/e.-animated-sprite.md)
-* [F. Sound Effect](tutorials/f.-sound-effect.md)
+* [A. Hello Phaser](tutorials/hello-phaser.md)
+* [B. Matching Game](tutorials/matching-game.md)
+* [C. Top-Down Game](tutorials/top-down-game.md)
+* [D. Side-Scrolling Game](tutorials/side-scrolling-game.md)
+* [E. Animated Sprites](tutorials/animated-sprites.md)
+* [F. Sound Effects](tutorials/sound-effects.md)
 
 ## REFERENCES
 
