@@ -23,5 +23,5 @@ The goals of this tutorial are to help you:
 
 When learning a new programming language, the first step that many people take is to create what is called a ["Hello World"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) program. Traditionally, this program simply displays the text "Hello World" on the screen and only requires a few lines of code. The purpose is to demonstrate that you can create a simple yet functional program in the new coding language. It's a first step before creating more complex programs with the new language.
 
-A Phaser game can display text on the screen, so we could have chosen to create a traditional "Hello World" message on the game screen. Instead, we'll display an image, since video games typically use lots of images. Plus, we'll add the ability to detect keyboard input, since video games are centered on player interaction.
+A Phaser game can display text, so we could create a traditional "Hello World" message on the game screen. However, instead, we'll display an image on the screen, since video games typically use lots of images. In addition, we'll add the ability to detect keyboard input, since video games are centered around player interaction.
 
