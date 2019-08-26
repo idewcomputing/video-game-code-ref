@@ -14,6 +14,10 @@ Using a code editor, create a new project named `hello-phaser` containing three 
 
 Depending on the code editor you're using, these new files might be completely blank — or they might have starter code that was automatically inserted by the code editor. Either way is fine. In the next few steps of this tutorial, you'll add new code to each of these files.
 
+{% hint style="info" %}
+**JS FILENAME:**  This code guidebook will refer to `script.js` as the name of the JS file containing your Phaser game code. However, you can choose a different name for this file \(such as `code.js` or `game.js`\). Just be sure the `<script>` tag in your HTML lists the correct filename for your JS game code.
+{% endhint %}
+
 ### Create Folder for Assets
 
 In your code editor, create a new folder named `assets` in the same location as your HTML, CSS, and JS files. This folder will contain asset files used in your game, such as:  images, animated sprites, sound effects, etc.
