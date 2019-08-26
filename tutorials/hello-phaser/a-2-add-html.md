@@ -31,7 +31,7 @@ This is the basic HTML required to create a Phaser game on a webpage. Here are t
 * The `<script>` tag on line 12 loads your JS file named `script.js`, which will contain your Phaser game code. You can use a different name for this file \(such as: `code.js` or `game.js`\) as long as the `<script>` tag matches the filename of your game code.
 
 {% hint style="success" %}
-**IMPORTANT:**  The `<script>` tag that loads the Phaser game framework \(`phaser.min.js`\) must be listed **before** the `<script>` tag that loads your game code \(`script.js`\). Otherwise, if their order is reversed, your game won't work.
+**IMPORTANT:**  The `<script>` tag that loads the Phaser CE game framework named`phaser.min.js` must be listed **before** the `<script>` tag that loads your game code \(`script.js`\). If their order is reversed, your game won't work.
 {% endhint %}
 
 ### Add Copy of Phaser JS
