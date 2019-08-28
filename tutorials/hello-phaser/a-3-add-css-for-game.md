@@ -4,7 +4,7 @@ Next, let's add some CSS to style the appearance of your game's webpage.
 
 ## Add CSS for Game Container
 
-A Phaser game does **not** require any special CSS, in order for the game to work.
+A Phaser CE game does **not** require any special CSS in order for the game to work.
 
 However, you'll add some optional CSS to style the `<div>` element that will contain your game canvas. Remember that this `<div>` element was given an id name of `my-game` which can be used to select this element with your CSS.
 
@@ -66,7 +66,7 @@ Again, all of this CSS is optional. If you wanted, you could modify this CSS —
 
 Preview the webpage in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to see it fullscreen.
 
-You should now see a black border outline where the game canvas will eventually be inserted. Below that you should see the game's title and your name. Everything should be centered horizontally on the webpage.
+Your webpage should have a light blue background, and you should see a black border outlining where the game canvas will eventually be inserted. Below that you should see the game's title \(in purple text\) and your name. Everything should be centered horizontally.
 
 ![](../../.gitbook/assets/hello-phaser-css-preview.jpg)
 

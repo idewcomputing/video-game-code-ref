@@ -27,7 +27,7 @@ Copy this HTML, and paste it into your `index.html` file \(replacing any other s
 </html>
 ```
 
-This is the basic HTML required for a Phaser game. All of your Phaser games will start with this HTML \(though you can insert additional HTML to customize the game's webpage\).
+This is the basic HTML required for a Phaser CE game. All of your games will start with this HTML \(though you can insert additional HTML to customize the game's webpage\).
 
 Here is an explanation of the key things this HTML does: 
 
