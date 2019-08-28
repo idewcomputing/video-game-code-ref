@@ -4,7 +4,7 @@ Phaser games are JavaScript-powered web apps that run in a browser. Your Phaser 
 
 Your game will also need to load the Phaser game framework, which is a JavaScript file named `phaser.min.js` that defines classes for JS objects you'll use in your game code. You can either load this Phaser JS file from a local copy \(placed in the same location as your HTML, CSS, and JS files\) or by linking to a URL from a CDN \(Content Delivery Network\).
 
-### Create Files for HTML, CSS, and JS
+## Create Files for HTML, CSS, and JS
 
 Using a code editor, create a new project named `hello-phaser` containing three new files:
 
@@ -18,7 +18,7 @@ Depending on the code editor you're using, these new files might be completely b
 **JS FILENAME:**  This code guidebook will refer to `script.js` as the name of the JS file containing your Phaser game code. However, you can choose a different name for this file \(such as `code.js` or `game.js`\). Just be sure the `<script>` tag in your HTML lists the correct filename for your JS game code.
 {% endhint %}
 
-### Create Folder for Assets
+## Create Folder for Assets
 
 In your code editor, create a new folder named `assets` in the same location as your HTML, CSS, and JS files. This folder will contain asset files used in your game, such as:  images, animated sprites, sound effects, etc.
 
