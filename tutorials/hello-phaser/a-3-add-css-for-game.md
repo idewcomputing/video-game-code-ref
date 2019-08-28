@@ -1,4 +1,6 @@
 # A-3 Add CSS for Game
 
-add starter CSS code for game
+Next, let's add some CSS to style the appearance of your game's webpage.
+
+
 

@@ -6,9 +6,9 @@ Let's add the starter HTML needed for a Phaser game.
 **HINT TO COPY CODE:**  In this guidebook, you can click the **copy icon** displayed in the upper right of a code block to copy all the code to the clipboard for pasting.
 {% endhint %}
 
-## Add HTML
+## Add Starter HTML
 
-Copy this HTML, and paste it into your `index.html` file \(replacing any other starter code that might already be present\):
+Copy this starter HTML, and paste it into your `index.html` file \(replacing any other starter code that might already be present\):
 
 ```markup
 <!DOCTYPE html>
@@ -27,7 +27,7 @@ Copy this HTML, and paste it into your `index.html` file \(replacing any other s
 </html>
 ```
 
-This is the basic HTML required for a Phaser game. All of your Phaser games will start with this HTML \(though you might insert additional HTML to customize the game's webpage\).
+This is the basic HTML required for a Phaser game. All of your Phaser games will start with this HTML \(though you can insert additional HTML to customize the game's webpage\).
 
 Here is an explanation of the key things this HTML does: 
 
@@ -44,7 +44,9 @@ Here is an explanation of the key things this HTML does:
 
 Let's add some more HTML to display the game's title and your name on the webpage containing your game.
 
-You'll use a heading \(`<h1>`\) to display the game title and a paragraph \(`<p>`\) to display your name. Let's display this information below your game. Remember that the `<div>` element on line 10 of your HTML will eventually contain your game canvas.
+Modify the `<title>` element on line 6 to list `Hello Phaser` as the webpage title. This title is displayed at the top of the browser window \(or tab\) but not on the webpage itself. This would be used as the webpage's title if it were bookmarked in your browser or listed on a search engine's results page.
+
+On your game's webpage, you'll use a heading \(`<h1>`\) to display the game title and a paragraph \(`<p>`\) to display your name. Let's display this information below your game. Remember that the `<div>` element on line 10 will eventually contain your game canvas.
 
 Create a blank line \(using the return key\) between line 10 \(`<div>` element\) and line 11 \(first `<script>` tag\). Then copy this HTML, and paste it into the blank line:
 
@@ -54,6 +56,14 @@ Create a blank line \(using the return key\) between line 10 \(`<div>` element\)
 ```
 
 Now modify the text within the `<p>` element to list your actual first and last names.
+
+## Preview Webpage
+
+Preview the HTML in your code editor. Depending on your code editor, you might need to refresh its preview pane.
+
+At this point, your webpage will look very plain \(because there's no CSS listed yet in the `style.css` file\), and it won't have a functioning game yet \(because there's no JS listed yet in the `script.js` file\).
+
+![](../../.gitbook/assets/hello-phaser-html-preview.jpg)
 
 
 
