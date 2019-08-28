@@ -58,6 +58,10 @@ As you can see, this CSS styles some of the properties for several elements on t
 
 Again, all of this CSS is optional. If you wanted, you could modify this CSS — or add other CSS to style additional properties for the elements on the webpage.
 
+{% hint style="info" %}
+**CSS:**  If you want to learn more about CSS or need a quick reference, check out the [W3Schools CSS Tutorial and Reference](https://www.w3schools.com/css/default.asp).
+{% endhint %}
+
 ## Preview Webpage
 
 Preview the webpage in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to see it fullscreen.

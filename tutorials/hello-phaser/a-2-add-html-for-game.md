@@ -57,6 +57,10 @@ Create a blank line \(using the return key\) between line 10 \(`<div>` element\)
 
 Now modify the text within the `<p>` element to list your actual first and last names.
 
+{% hint style="info" %}
+**HTML:**  If you want to learn more about HTML or need a quick reference, check out the [W3Schools HTML Tutorial and Reference](https://www.w3schools.com/html/default.asp).
+{% endhint %}
+
 ## Preview Webpage
 
 Preview the webpage in your code editor. Depending on your code editor, you might need to refresh its preview pane.
