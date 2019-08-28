@@ -1,4 +1,4 @@
-# A-2 Add HTML
+# A-2 Add HTML for Game
 
 Let's add the starter HTML needed for a Phaser game.
 
