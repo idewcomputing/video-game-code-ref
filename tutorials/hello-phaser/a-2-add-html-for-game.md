@@ -51,8 +51,8 @@ On your game's webpage, you'll use a heading \(`<h1>`\) to display the game titl
 Create a blank line \(using the return key\) between line 10 \(`<div>` element\) and line 11 \(first `<script>` tag\). Then copy this HTML, and paste it into the blank line:
 
 ```markup
-	<h1>Hello Phaser</h1>
-	<p>Coded by Firstname Lastname</p>
+  <h1>Hello Phaser</h1>
+  <p>Coded by Firstname Lastname</p>
 ```
 
 Now modify the text within the `<p>` element to list your actual first and last names.
