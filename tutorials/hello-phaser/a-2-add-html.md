@@ -4,7 +4,7 @@ add starter HTML code for Phaser game
 
 ## Add HTML
 
-Copy-and-paste this HTML markup into your `index.html` file \(replacing any starter code that might already be present\):
+Copy this HTML, and paste it into your `index.html` file \(replacing any starter code that might already be present\):
 
 ```markup
 <!DOCTYPE html>
@@ -22,6 +22,10 @@ Copy-and-paste this HTML markup into your `index.html` file \(replacing any star
   </body>
 </html>
 ```
+
+{% hint style="info" %}
+**QUICK WAY TO COPY:**  When using this guidebook, you can copy a code block simply by clicking the **copy icon** displayed in the upper right of the code block.
+{% endhint %}
 
 This is the basic HTML required to create a Phaser game on a webpage. Here is an explanation of the key things this HTML does: 
 
