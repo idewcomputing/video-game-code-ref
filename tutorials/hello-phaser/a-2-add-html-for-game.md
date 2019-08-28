@@ -27,7 +27,9 @@ Copy this HTML, and paste it into your `index.html` file \(replacing any starter
 </html>
 ```
 
-This is the basic HTML required to create a Phaser game on a webpage. Here is an explanation of the key things this HTML does: 
+This is the basic HTML required for a Phaser game. All of your Phaser games will start with this HTML \(though you might insert additional HTML to customize the game's webpage\).
+
+Here is an explanation of the key things this HTML does: 
 
 * The `<link>` tag on line 7 loads your CSS stylesheet file named `style.css`, which can be used to style the webpage that your game is embedded within.
 * The `<div>` element on line 10 will contain your game canvas, which will literally be a `<canvas>` element that will be inserted by your Phaser game code. This `<div>` tag has been given an id name of `my-game`, so your Phaser game code can identify where to insert the canvas for your game.
