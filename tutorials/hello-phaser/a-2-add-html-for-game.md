@@ -8,7 +8,7 @@ Let's add the starter HTML needed for a Phaser game.
 
 ## Add HTML
 
-Copy this HTML, and paste it into your `index.html` file \(replacing any starter code that might already be present\):
+Copy this HTML, and paste it into your `index.html` file \(replacing any other starter code that might already be present\):
 
 ```markup
 <!DOCTYPE html>
@@ -39,6 +39,21 @@ Here is an explanation of the key things this HTML does:
 {% hint style="success" %}
 **IMPORTANT:**  Be sure the `<script>` tag that loads the Phaser CE game framework \(`phaser.min.js`\) is listed **before** the `<script>` tag that loads your game code \(`script.js`\). If their order is reversed, your game won't work.
 {% endhint %}
+
+## Add Game Title and Your Name
+
+Let's add some more HTML to display the game's title and your name on the webpage containing your game.
+
+You'll use a heading \(`<h1>`\) to display the game title and a paragraph \(`<p>`\) to display your name. Let's display this information below your game. Remember that the `<div>` element on line 10 of your HTML will eventually contain your game canvas.
+
+Create a blank line \(using the return key\) between line 10 \(`<div>` element\) and line 11 \(first `<script>` tag\). Then copy this HTML, and paste it into the blank line:
+
+```markup
+	<h1>Hello Phaser</h1>
+	<p>Coded by Firstname Lastname</p>
+```
+
+Now modify the text within the `<p>` element to list your actual first and last names.
 
 
 
