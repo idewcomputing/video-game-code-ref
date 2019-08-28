@@ -8,7 +8,7 @@ Let's add the starter HTML needed for a Phaser game.
 
 ## Add Starter HTML
 
-Copy this starter HTML, and paste it into your `index.html` file \(replacing any other starter code that might already be present\):
+Copy this HTML, and paste it into your `index.html` file \(replacing any other starter HTML that might already be present\):
 
 ```markup
 <!DOCTYPE html>
@@ -32,7 +32,7 @@ This is the basic HTML required for a Phaser game. All of your Phaser games will
 Here is an explanation of the key things this HTML does: 
 
 * The `<link>` tag on line 7 loads your CSS stylesheet file named `style.css`, which can be used to style the webpage that your game is embedded within.
-* The `<div>` element on line 10 will contain your game canvas, which will literally be a `<canvas>` element that will be inserted by your Phaser game code. This `<div>` tag has been given an id name of `my-game`, so your Phaser game code can identify where to insert the canvas for your game.
+* The `<div>` element on line 10 will contain your game canvas, which will literally be a `<canvas>` element that will be inserted by your Phaser game code. This `<div>` element has been given an id name of `my-game`, so your Phaser game code can identify where to insert the canvas for your game.
 * The `<script>` tag on line 11 loads the Phaser CE game framework JS file named `phaser.min.js`. In this case, the file is being loaded remotely from a CDN \(Content Delivery Network\) using a URL. However, if necessary, this `<script>` tag can be modified to load a local copy of the Phaser CE JS file.
 * The `<script>` tag on line 12 loads your JS file named `script.js`, which will contain your Phaser game code. You can use a different name for this file \(such as: `code.js` or `game.js`\) as long as the `<script>` tag matches the filename of your game code.
 
@@ -59,9 +59,11 @@ Now modify the text within the `<p>` element to list your actual first and last 
 
 ## Preview Webpage
 
-Preview the HTML in your code editor. Depending on your code editor, you might need to refresh its preview pane.
+Preview the webpage in your code editor. Depending on your code editor, you might need to refresh its preview pane.
 
 At this point, your webpage will look very plain \(because there's no CSS listed yet in the `style.css` file\), and it won't have a game canvas yet \(because there's no JS listed yet in the `script.js` file\).
+
+You'll simply see the game title and your name listed in the browser's default serif font with the text left-aligned and displayed at the top of the webpage. There won't be any visible game canvas yet.
 
 ![](../../.gitbook/assets/hello-phaser-html-preview.jpg)
 
