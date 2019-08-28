@@ -44,7 +44,7 @@ Here is an explanation of the key things this HTML does:
 
 Let's add some more HTML to display the game's title and your name on the webpage containing your game.
 
-Modify the `<title>` element on line 6 to list `Hello Phaser` as the webpage title. This title is displayed at the top of the browser window \(or tab\) but not on the webpage itself. This would be used as the webpage's title if it were bookmarked in your browser or listed on a search engine's results page.
+Modify the `<title>` element on line 6 to list `Hello Phaser` as the webpage title. This title is displayed at the top of the browser window \(or tab\) but **not** on the webpage itself. This would be used as the webpage's title if it were bookmarked in your browser or listed on a search engine's results page.
 
 On your game's webpage, you'll use a heading \(`<h1>`\) to display the game title and a paragraph \(`<p>`\) to display your name. Let's display this information below your game. Remember that the `<div>` element on line 10 will eventually contain your game canvas.
 
@@ -61,7 +61,7 @@ Now modify the text within the `<p>` element to list your actual first and last 
 
 Preview the HTML in your code editor. Depending on your code editor, you might need to refresh its preview pane.
 
-At this point, your webpage will look very plain \(because there's no CSS listed yet in the `style.css` file\), and it won't have a functioning game yet \(because there's no JS listed yet in the `script.js` file\).
+At this point, your webpage will look very plain \(because there's no CSS listed yet in the `style.css` file\), and it won't have a game canvas yet \(because there's no JS listed yet in the `script.js` file\).
 
 ![](../../.gitbook/assets/hello-phaser-html-preview.jpg)
 
