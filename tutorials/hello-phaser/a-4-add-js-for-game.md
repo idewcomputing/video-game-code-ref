@@ -23,7 +23,7 @@ function create() {
 
 }
 
-// update game - runs in continuous loop after create finishes
+// update game - runs repeatedly in loop after create finishes
 function update() {
 
 }
@@ -40,14 +40,14 @@ There are comments embedded in the JS to help explain the code. Here's a more de
 * **GLOBAL VARIABLES:**  Line 5 is an empty placeholder where you will eventually add code to declare other global variables needed for your game. For example, you might need to declare a global variable to store the player's score.  You'll also need to declare global variables for images, sprites, sound effects, player input controls, etc. 
 * **PRELOAD FUNCTION:**  Line 8 defines a function named `preload()` that will run one time when the webpage first loads \(or is refreshed\). At the moment, there are no code statements inside the `preload()` function. However, you will eventually add Phaser code to load your game assets into memory \(such as: images, sprites, sounds, etc.\).
 * **CREATE FUNCTION:**  Line 13 defines a function named `create()` that will run one time **after** the `preload()` function has finished running. At the moment, there are no code statements inside the `create()` function. However, you will eventually add Phaser code to create your game world by adding images, sprites, input controls, etc.
-* **UPDATE FUNCTION:**  Line 18 defines a function named `update()` that will run in a continuous loop **after** the `create()` function has finished running. At the moment, there are no code statements inside the `update()` function. However, you will eventually add Phaser code to update your game by checking for player input, checking for collisions between sprites, etc. 
+* **UPDATE FUNCTION:**  Line 18 defines a function named `update()` that will run repeatedly in a loop **after** the `create()` function has finished running. At the moment, there are no code statements inside the `update()` function. However, you will eventually add Phaser code to update your game by checking for player input, checking for collisions between sprites, etc. 
 * **CUSTOM FUNCTIONS:**  Line 23 is an empty placeholder where you will eventually add code to define your own custom functions needed for your game. For example, you might need to define a custom function to perform certain actions when the player's sprite collides with an enemy sprite. These custom functions will only run if and when they're specifically called within other functions \(such as the `update()` function, etc.\).
 
 ## Preview Webpage
 
 Preview the webpage in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to see it fullscreen.
 
-Your webpage should now display a solid black game canvas. If so, your next step is to start adding features to your game. If not, either the Phaser CE game framework failed to load, or you have a mistake in your code somewhere.
+Your webpage should now display a solid black game canvas. If so, your next step is to start adding features to your game. If not, either the Phaser CE game framework failed to load, or you have a mistake somewhere in your code.
 
 ![](../../.gitbook/assets/hello-phaser-js-preview.jpg)
 

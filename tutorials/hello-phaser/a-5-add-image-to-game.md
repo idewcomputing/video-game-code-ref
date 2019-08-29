@@ -2,6 +2,12 @@
 
 Next, let's add an image to the game. We'll use the Phaser logo as the image.
 
+## Add Image File to Assets Folder
+
+download image file
+
+upload image file to assets folder
+
 ## Declare Variable for Image
 
 declare global variable to represent the image

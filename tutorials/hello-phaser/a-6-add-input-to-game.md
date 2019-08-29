@@ -2,6 +2,8 @@
 
 Finally, let's add a way for a player to interact with the game by pressing a key.
 
+Phaser CE supports the ability to detect input through a keyboard, mouse, touch \(for mobile devices\), and gamepads.
+
 ## Declare Variable for Input Key
 
 declare global variable to represent the input key
