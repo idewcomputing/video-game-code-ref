@@ -45,7 +45,7 @@ There are comments embedded in the JS to help explain the code. Here's a more de
 
 ## Preview Webpage
 
-Preview the webpage in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to see it fullscreen.
+Preview the webpage in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to view it in fullscreen.
 
 Your webpage should now display a solid black game canvas. If so, your next step is to start adding features to your game. If not, either the Phaser CE game framework failed to load, or you have a mistake somewhere in your code.
 

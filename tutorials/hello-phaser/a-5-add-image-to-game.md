@@ -33,7 +33,7 @@ When coding in JavaScript, you get to decide your own names for your variables â
 
 ## Load Image into Memory
 
-The next step is to load the image into the game's memory.
+The next step is to load the image into the game's memory \(before you can display it\).
 
 To do this, you'll start using Phaser CE code in your JS file. Remember that your HTML loaded the Phaser CE game framework \(`phaser.min.js`\), which defines classes for JS objects you can use in your game code. Each Phaser game object has a set of properties \(variables\) and methods \(functions\) that you can use to modify the object.
 
@@ -53,6 +53,8 @@ explanation
 
 ## Add Image to Game
 
+The next step is to add the image to the game, which will actually display it.
+
 add the image to the game world in the create\(\) function
 
 ```javascript
@@ -69,5 +71,9 @@ set anchor position for image
 
 ## Preview Game
 
-Preview the game in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to see it fullscreen.
+Preview the game in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to view it in fullscreen.
+
+Your game should display the Phaser logo image centered on the game canvas.
+
+![](../../.gitbook/assets/hello-phaser-logo-preview.jpg)
 

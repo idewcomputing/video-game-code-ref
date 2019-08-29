@@ -18,5 +18,5 @@ check input key in update\(\) function using if statement to perform certain act
 
 ## Preview Game
 
-Preview the game in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to see it fullscreen.
+Preview the game in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to view it in fullscreen.
 

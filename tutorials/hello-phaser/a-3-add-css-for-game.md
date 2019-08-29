@@ -64,7 +64,7 @@ Again, all of this CSS is optional. If you wanted, you could modify this CSS —
 
 ## Preview Webpage
 
-Preview the webpage in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to see it fullscreen.
+Preview the webpage in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to view it in fullscreen.
 
 Your webpage should have a light blue background, and you should see a black border outlining where the game canvas will eventually be inserted \(once you add the proper JS code to the `script.js` file\). Below that you should see the game's title \(in purple text\) and your name. Everything should be centered horizontally.
 
