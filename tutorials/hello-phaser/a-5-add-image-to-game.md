@@ -43,7 +43,7 @@ To do this, you'll start using Phaser CE code in your JS file. Remember that you
 
 Phaser CE games use the `preload()` function to load all game assets \(images, sprites, sound effects, etc.\) into memory at the start of the game. This helps prevent delays or errors during gameplay.
 
-Copy this Phaser CE code, and paste it into your `script.js` file on line 9 \(which should be blank\):
+Copy this Phaser CE code, and insert it within the `preload()` function by pasting it on line 9 \(which should be blank\):
 
 ```javascript
   game.load.image('logo', 'assets/phaser.png');
@@ -55,7 +55,17 @@ explanation
 
 add the image to the game world in the create\(\) function
 
+```javascript
+  logo = game.add.image(400, 300, 'logo');
+```
+
+explain x-y coordinate system for Phaser game
+
 set anchor position for image
+
+```javascript
+  logo.anchor.setTo(0.5, 0.5);
+```
 
 ## Preview Game
 
