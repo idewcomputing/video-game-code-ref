@@ -11,8 +11,8 @@ However, you'll add some **optional** CSS to style the `<div>` element that will
 Copy this CSS, and paste it into your `style.css` file \(replacing any other starter CSS that might already be present\):
 
 ```css
+/* optional CSS for game container */
 #my-game {
-  /* optional CSS for game container */
   width: 800px;
   height: 600px;
   margin: 0 auto;
@@ -23,18 +23,17 @@ Copy this CSS, and paste it into your `style.css` file \(replacing any other sta
 Here is an explanation of what this CSS does:
 
 * Lines 3 and 4 set the width and height \(in pixels\) for the `<div>` element that will contain the game canvas.  Later in your JS game code, you'll set your game canvas to these same exact dimensions.
-* Line 5 sets the margins around the `<div>` element. The top and bottom margins are set to zero. The left and right margins are set to `auto`, which will center the game canvas horizontally on the webpage.
+* Line 5 sets the margins around the `<div>` element. The top and bottom margins have been set to zero. The left and right margins have been set to `auto`, which will center the game canvas horizontally on the webpage.
 * Line 6 displays a border around the `<div>` element.
 
 ## Add CSS for Other Elements
 
 Let's add some other **optional** CSS to style some of the other elements of the webpage.
 
-Copy this CSS, and paste it into your `style.css` file after your existing CSS:
+Copy this CSS, and paste it into your `style.css` file **after** your existing CSS:
 
 ```css
 /* optional CSS for webpage */
-
 body {
   background-color: #E0FFFF;
   font-family: sans-serif;
