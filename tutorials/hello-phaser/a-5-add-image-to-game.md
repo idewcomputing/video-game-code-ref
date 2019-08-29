@@ -4,7 +4,7 @@ Next, let's add an image to the game. We'll use the Phaser logo as the image.
 
 ## Add Image File to Assets Folder
 
-download image file
+[Download this image file](https://drive.google.com/open?id=13Q1uDSz5up02Gnk391I09S7-xRLgjxU8) named `phaser.png` to your computer.
 
 upload image file to assets folder
 
