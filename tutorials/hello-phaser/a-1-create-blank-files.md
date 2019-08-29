@@ -8,7 +8,7 @@ Your game will also need to load the Phaser CE game framework, which is a JavaSc
 
 ## Create New Files for Game
 
-Using a code editor \(such as [repl.it](https://repl.it/)\), create a new project named `hello-phaser` containing three new files:
+Using a code editor \(such as [repl.it](https://repl.it/)\), create a new project \(or folder\) named `hello-phaser` containing three new files:
 
 * HTML file named`index.html`
 * CSS file named `style.css`
@@ -22,7 +22,7 @@ Depending on the code editor you're using, these new files might be completely b
 
 ## Create New Folder for Assets
 
-In your code editor, create a new folder named `assets` in the same location as your HTML, CSS, and JS files. This folder will contain asset files used in your game, such as:  images, animated sprites, sound effects, etc.
+In your code editor, create a new subfolder named `assets` in the same location as your HTML, CSS, and JS files. This folder will contain asset files used in your game, such as images, animated sprites, sound effects, etc.
 
 Right now, this folder is empty, but in a later step, you'll upload an image file to this folder, so the image can be used in your Hello Phaser game.
 
