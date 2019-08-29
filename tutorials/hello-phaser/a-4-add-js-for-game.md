@@ -7,7 +7,7 @@ Next, let's add the starter JS code needed for a Phaser CE game.
 Copy this JS, and paste it into your `script.js` file \(replacing any other starter JS that might already be present\):
 
 ```javascript
-// create Phaser.Game object and assign to global variable named game
+// create Phaser.Game object assigned to global variable named game
 var game = new Phaser.Game(800, 600, Phaser.AUTO, 'my-game', { preload: preload, create: create, update: update });
 
 // declare other global variables (for sprites, etc.)
