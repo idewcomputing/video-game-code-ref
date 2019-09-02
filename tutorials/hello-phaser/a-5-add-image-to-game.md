@@ -20,7 +20,7 @@ Copy this JS code, and paste it into your `script.js` file on line 5 \(which sho
 var logo;
 ```
 
-This JS code statement declares \(creates\) a new variable named `logo`, which will be used to represent the Phaser logo image.
+This JS code statement declares \(creates\) a new global variable named `logo`, which will be used to represent the Phaser logo image.
 
 When coding in JavaScript, you get to decide your own names for your variables — but here are a few rules and recommendations to follow:
 
@@ -114,7 +114,7 @@ So if you look at your Phaser logo image again, you'll see that its top-left cor
 
 Let's change the anchor point for the Phaser logo image to its center, instead of its top-left corner. We **won't** change the position of the image, which will still be `(400, 300)`. We'll simply change the anchor point used to determine how it is positioned.
 
-Copy this Phaser CE code statement, and insert it within the `create()` function by pasting it on a new line immediately after line 14 \(which added the image\):
+Copy this Phaser CE code statement, and insert it within the `create()` function by pasting it on a new line immediately **after** line 14 \(which added the image\):
 
 ```javascript
   logo.anchor.setTo(0.5, 0.5);
