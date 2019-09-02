@@ -77,7 +77,11 @@ Because the `update()` function runs repeatedly in a loop, the game will keep ch
 
 Preview the game in your code editor. Depending on your code editor, you might need to refresh its preview pane. If necessary, open the preview in a new tab or window to view it in fullscreen.
 
-Your game should change its background to a random color each time you have just pressed the spacebar key down \(you'll have to release the spacebar and press it again to change the color again\). If so, you've successfully completed the Hello Phaser tutorial!
+Your game should change its background to a random color each time you have just pressed the spacebar key down \(you'll have to release the spacebar and press it again to change the color again\).
+
+If so, congratulations — you've successfully completed the Hello Phaser tutorial!
+
+\(Otherwise, if not, double-check your code to see where you might have made a mistake.\)
 
 ![](../../.gitbook/assets/hello-phaser-final-preview.jpg)
 
