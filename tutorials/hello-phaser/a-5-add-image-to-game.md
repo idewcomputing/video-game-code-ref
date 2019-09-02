@@ -108,11 +108,11 @@ Your game should display the Phaser logo image on the game canvas. Even though t
 
 Next, you'll change one of the image's properties, in order to visually center the image on your game canvas.
 
-Phaser game objects that are displayed \(such as images, sprites, text, etc.\) have a property called **anchor**, which is used as the reference point for positioning the object in the game world. By default, an object's anchor position is set to its top-left corner.
+Phaser game objects that are displayed \(such as images, sprites, text, etc.\) have a property called **anchor**, which is used as the reference point for positioning the object in the game world. By default, an object's anchor point is set to its top-left corner.
 
 So if you look at your Phaser logo image again, you'll see that its top-left corner is actually located in the center of the game canvas. However, what we really want is to have the logo image visually centered on the canvas.
 
-Let's change the anchor point for the Phaser logo image to be its center, instead of its top-left corner. We **won't** change the position of the image, which will still be `(400, 300)`. We'll simply change the anchor point used to determine how it is positioned.
+Let's change the anchor point for the Phaser logo image to its center, instead of its top-left corner. We **won't** change the position of the image, which will still be `(400, 300)`. We'll simply change the anchor point used to determine how it is positioned.
 
 Copy this Phaser CE code statement, and insert it within the `create()` function by pasting it on a new line immediately after line 14 \(which added the image\):
 
@@ -128,8 +128,8 @@ Let's explain how this Phaser code statement works:
 
 Note that two parameters are listed inside the parentheses of the `logo.anchor.setTo()` method \(in this order\):
 
-* **Horizontal Anchor** — which is a decimal value between 0-1, representing the horizontal anchor position \(0 = left edge, 1 = right edge\). In this case, `0.5` is the image's horizontal center. 
-* **Vertical Anchor** — which is a decimal value between 0-1, representing the vertical anchor position \(0 = top edge, 1 = bottom edge\). In this case, `0.5` is the image's vertical center.
+* **Horizontal Anchor** — which is a decimal value between 0-1, representing the horizontal anchor position \(0 = left edge, 1 = right edge\). In this case, `0.5` represents the image's horizontal center. 
+* **Vertical Anchor** — which is a decimal value between 0-1, representing the vertical anchor position \(0 = top edge, 1 = bottom edge\). In this case, `0.5` represents the image's vertical center.
 
 Again, the default anchor point used to position objects in the game world is the object's top-left corner `(0,0)`. However, you'll find that it will make more sense to position certain objects with the object's anchor point set to the object's center `(0.5, 0.5)`.
 
