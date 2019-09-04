@@ -5,7 +5,7 @@
 
 * [finding and creating visual assets](https://docs.idew.org/video-game/project-references/visual-assets) \(animated sprites, etc.\)
 * [finding and creating audio assets](https://docs.idew.org/video-game/project-references/audio-assets) \(sound effects, etc.\)
-* [coding common game features using Phaser CE](https://docs.idew.org/video-game/project-references/phaser-coding) \(adding objects, detecting collisions, etc.\)
+* [coding game features with Phaser CE](https://docs.idew.org/video-game/project-references/phaser-coding) \(add sprites, detect collisions, etc.\)
 {% endhint %}
 
 
