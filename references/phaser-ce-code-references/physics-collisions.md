@@ -1,4 +1,4 @@
-# Physics Collisions
+# Physics - Collisions
 
-physics collisions and overlap
+Arcade physics methods for collisions and overlap
 
