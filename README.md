@@ -4,36 +4,25 @@
 **UPDATE IN PROGRESS:** This new code guidebook will be a revision of the [tutorials](https://docs.idew.org/video-game/project-outline/1-5-phaser-practice-1-matching-game) and [references](https://docs.idew.org/video-game/project-references) in the previous project guidebook. Updates to this new code guidebook will be occurring during summer 2019.
 {% endhint %}
 
+This Video Game Code Guidebook is a supplement to the [Video Game Project Guidebook](https://docs.idew.org/project-video-game/).
 
+## What's in this Guidebook?
 
-{% tabs %}
-{% tab title="TEMP OVERVIEW" %}
-Students will complete coding tutorials that show them how to create sample video games using the Phaser CE JavaScript game framework.
+This guidebook contains a series of **video game code tutorials** to help you get familiar with programming games using the Phaser CE game framework.
 
-Each student should complete the coding tutorials, in order to gain experience with coding \(even if he or she will not necessarily become the primary coder for their team\). It may be helpful if students pair up or work with their teammates to help each understand the code and successfully complete the tutorials.
+In addition, this guidebook contains **coding references** to explain how to use Phaser CE code to create a game world and add various features to the gameplay.
 
-The main goals of the tutorials are to help students become familiar with the:
+Finally, this guidebook also contains **links to external resources**, such as the Phaser CE API code reference, Phaser CE code examples, and online tools for creating game assets, such as animated sprites and sound effects.
 
-* options and constraints that Phaser has \(to make it easier to design their own game\)
-* structure and syntax of Phaser JS code \(to make it easier to code their own game\)
+{% hint style="info" %}
+**HOW TO COPY CODE:**  In this guidebook, you can click the **copy icon** displayed in the upper right of a code block to copy all the code to the clipboard for pasting.
+{% endhint %}
 
-Tutorials will be revised, so that students can complete them in 10-15 hours \(2-3 weeks\). Students should complete at least 3 tutorials:
-
-* a "Hello World" exercise \(introduction to getting Phaser running\)
-* a simple game \(Emoji Match - similar to slot machine\)
-* a more complex game \(selected from several available options\)
-
-Multiple tutorials might be offered, so that teachers and/or students can choose which tutorials to complete \(especially for the final tutorial\). Students could choose to complete additional tutorials to gain further experience \(could also be done as ongoing side task in parallel to other project assignments\). This would be especially helpful for any students that may become their team's primary coder.
-
-Other possibilities for tutorials:
-
-* Additional "classic" games that are more complex than the introductory game tutorial but not as complex as the Asteroids or platformer tutorials. For example, clones of Breakout and Space Invaders can be created with relatively little code.
-* A tutorial for a puzzle game or other game that doesn't involve a traditional player character - such as Match 3 game, etc.
-* A tutorial where most of the game code is provided, and students make certain modifications \(to demonstrate understanding of how Phaser works\) and add certain new features \(to extend their understanding of Phaser\). This might be a better approach for the Asteroids and platformer tutorials \(rather than completing each of these games entirely from scratch\).
-* A tutorial focused on using Piskel to make a spritesheet for an animated sprite \(such as a character\).
-* A tutorial focused on using ChipTone to make a custom sound effect.
-{% endtab %}
-{% endtabs %}
+```javascript
+// example code block
+var game = new Phaser.Game(800, 600, Phaser.AUTO, 'my-game',
+  { preload: preload, create: create, update: update });
+```
 
 ## Copyright and License
 
