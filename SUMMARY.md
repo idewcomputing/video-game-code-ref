@@ -20,6 +20,7 @@
 ## REFERENCES
 
 * [Phaser](references/phaser.md)
+* [Phaser CE Game Template](references/phaser-ce-game-template.md)
 
 ## LINKS
 
