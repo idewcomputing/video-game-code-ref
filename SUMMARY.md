@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Code Introduction](README.md)
+* [What is Phaser?](what-is-phaser.md)
 
 ## TUTORIALS
 
