@@ -4,6 +4,8 @@
 **UPDATE IN PROGRESS:** This new code guidebook will be a revision of the [tutorials](https://docs.idew.org/video-game/project-outline/1-5-phaser-practice-1-matching-game) and [references](https://docs.idew.org/video-game/project-references) in the previous project guidebook. Updates to this new code guidebook will be occurring during summer 2019.
 {% endhint %}
 
+
+
 {% tabs %}
 {% tab title="TEMP OVERVIEW" %}
 Students will complete coding tutorials that show them how to create sample video games using the Phaser CE JavaScript game framework.
