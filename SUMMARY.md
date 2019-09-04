@@ -14,13 +14,16 @@
 * [B. Matching Game](tutorials/matching-game.md)
 * [C. Top-Down Game](tutorials/top-down-game.md)
 * [D. Side-Scrolling Game](tutorials/side-scrolling-game.md)
-* [E. Animated Sprites](tutorials/animated-sprites.md)
-* [F. Sound Effects](tutorials/sound-effects.md)
 
 ## REFERENCES
 
 * [What is Phaser?](references/what-is-phaser.md)
 * [Phaser CE Game Template](references/phaser-ce-game-template.md)
+* [Game Assets](references/game-assets/README.md)
+  * [Images](references/game-assets/images.md)
+  * [Animated Sprites](references/game-assets/animated-sprites.md)
+  * [Sound Effects](references/game-assets/sound-effects.md)
+* [Phaser CE Code References](references/phaser-ce-code-references.md)
 
 ## LINKS
 
