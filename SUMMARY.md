@@ -17,7 +17,7 @@
 
 ## REFERENCES
 
-* [What is Phaser?](references/what-is-phaser.md)
+* [TEMP - Links to Old References](references/temp-references.md)
 * [Phaser CE Game Template](references/phaser-ce-game-template.md)
 * [Game Assets](references/game-assets/README.md)
   * [Images](references/game-assets/images.md)

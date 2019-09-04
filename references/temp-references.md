@@ -1,4 +1,4 @@
-# What is Phaser?
+# TEMP - Links to Old References
 
 {% hint style="danger" %}
 **UPDATE IN PROGRESS:** This new code guidebook will have revised versions of the Phaser references in the previous guidebook. In the meantime, you can still access the previous Phaser references for creating games:
