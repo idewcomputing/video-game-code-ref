@@ -8,5 +8,3 @@
 * [coding game features with Phaser CE](https://docs.idew.org/video-game/project-references/phaser-coding) \(add sprites, detect collisions, etc.\)
 {% endhint %}
 
-
-
