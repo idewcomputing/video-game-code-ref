@@ -1,3 +1,7 @@
+---
+description: version 1.0
+---
+
 # Video Game Code Reference
 
 ![](.gitbook/assets/video-game-code-icon.png)
