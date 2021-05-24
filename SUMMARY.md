@@ -4,7 +4,7 @@
 
 ## TUTORIALS
 
-* [Quick Setup 🚀](tutorials/quick-setup.md)
+* [Hello Phaser](tutorials/hello-phaser.md)
 * [Matching Game](tutorials/matching-game/README.md)
   * [Steps 1 - 5](tutorials/matching-game/steps-1-5.md)
   * [Steps 6 - 10](tutorials/matching-game/steps-6-10.md)
@@ -16,6 +16,7 @@
   * [Steps 1 - 5](tutorials/side-scrolling-game/steps-1-5.md)
   * [Steps 6 - 10](tutorials/side-scrolling-game/steps-6-10.md)
   * [Steps 11 - 15](tutorials/side-scrolling-game/steps-11-15.md)
+* [Quick Setup 🚀](tutorials/quick-setup.md)
 
 ## REFERENCES
 
