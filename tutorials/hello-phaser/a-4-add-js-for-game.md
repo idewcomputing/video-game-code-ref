@@ -1,4 +1,4 @@
-# A-4 Add JS for Game
+# 4 Add JS for Game
 
 Next, let's add the starter JS code needed for a Phaser CE game.
 

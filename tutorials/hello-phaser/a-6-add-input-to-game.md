@@ -1,4 +1,4 @@
-# A-6 Add Input to Game
+# 6 Add Input to Game
 
 Finally, let's add a way for a player to interact with the game by pressing a key.
 

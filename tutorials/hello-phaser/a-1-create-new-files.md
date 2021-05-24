@@ -1,4 +1,4 @@
-# A-1 Create New Files
+# 1 Create New Files
 
 Phaser games are JavaScript-powered web apps that run in a browser.
 
