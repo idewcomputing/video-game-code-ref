@@ -67,5 +67,5 @@ Preview the webpage in your code editor. Depending on your code editor, you migh
 
 Your webpage should have a light blue background, and you should see a black border outlining where the game canvas will eventually be inserted \(once you add the proper JS code to the `script.js` file\). Below that you should see the game's title \(in purple text\) and your name. Everything should be centered horizontally.
 
-![](../../.gitbook/assets/hello-phaser-css-preview.jpg)
+![](../../.gitbook/assets/hello-phaser-css-preview%20%281%29.jpg)
 
