@@ -74,7 +74,7 @@ function update() {
 // add custom functions (for collisions, etc.) - only run when called
 ```
 
-### 🎉 Now you are all set to complete the game tutorial!
+### 🎉 Now you are all set to program a game!
 
 
 
