@@ -10,6 +10,7 @@
   * [A-3 Add CSS for Game](tutorials/hello-phaser/a-3-add-css-for-game.md)
   * [A-4 Add JS for Game](tutorials/hello-phaser/a-4-add-js-for-game.md)
   * [A-5 Add Image to Game](tutorials/hello-phaser/a-5-add-image-to-game.md)
+  * [A-6 Add Input to Game](tutorials/hello-phaser/a-6-add-input-to-game.md)
 * [Matching Game](tutorials/matching-game/README.md)
   * [Steps 1 - 5](tutorials/matching-game/steps-1-5.md)
   * [Steps 6 - 10](tutorials/matching-game/steps-6-10.md)

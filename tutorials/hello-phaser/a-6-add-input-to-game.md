@@ -83,5 +83,5 @@ If so, congratulations — you've successfully completed the Hello Phaser tutori
 
 \(Otherwise, if not, double-check your code to see where you might have a mistake.\)
 
-![](../../.gitbook/assets/hello-phaser-final-preview.jpg)
+![](../../.gitbook/assets/hello-phaser-final-preview%20%281%29.jpg)
 
