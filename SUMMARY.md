@@ -4,7 +4,9 @@
 
 ## TUTORIALS
 
-* [Hello Phaser](tutorials/hello-phaser.md)
+* [Hello Phaser](tutorials/hello-phaser/README.md)
+  * [A-1 Create New Files](tutorials/hello-phaser/a-1-create-new-files.md)
+  * [A-2 Add HTML for Game](tutorials/hello-phaser/a-2-add-html-for-game.md)
 * [Matching Game](tutorials/matching-game/README.md)
   * [Steps 1 - 5](tutorials/matching-game/steps-1-5.md)
   * [Steps 6 - 10](tutorials/matching-game/steps-6-10.md)

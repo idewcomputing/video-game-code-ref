@@ -69,7 +69,5 @@ At this point, your webpage will look very plain \(because there's no CSS listed
 
 You'll simply see the game title \(`<h1>` element\) and your name \(`<p>` element\) listed in the browser's default serif font with the text left-aligned and displayed at the top of the webpage. There won't be any visible game canvas yet.
 
-![](../../.gitbook/assets/hello-phaser-html-preview.jpg)
-
-
+![](../../.gitbook/assets/hello-phaser-html-preview%20%281%29.jpg)
 

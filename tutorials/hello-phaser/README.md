@@ -1,4 +1,4 @@
-# A. Hello Phaser
+# Hello Phaser
 
 In this first tutorial, you'll code a "Hello World" game that displays the Phaser logo and changes the game's background color when the spacebar is pressed.
 
