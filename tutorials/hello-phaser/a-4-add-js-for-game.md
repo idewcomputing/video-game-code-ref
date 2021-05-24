@@ -49,5 +49,5 @@ Preview the webpage in your code editor. Depending on your code editor, you migh
 
 Your webpage should now display a solid black game canvas. If so, your next step is to start adding features to your game. If not, either the Phaser CE game framework failed to load, or you have a mistake somewhere in your code.
 
-![](../../.gitbook/assets/hello-phaser-js-preview.jpg)
+![](../../.gitbook/assets/hello-phaser-js-preview%20%281%29.jpg)
 

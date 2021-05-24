@@ -102,7 +102,7 @@ Preview the game in your code editor. Depending on your code editor, you might n
 
 Your game should display the Phaser logo image on the game canvas. Even though the image was added to the center position of the game, the image will **not** appear to be visually centered. Instead, the image will appear in the lower-right quadrant of the game canvas. We'll fix this by adding some more Phaser code.
 
-![](../../.gitbook/assets/hello-phaser-logo1-preview.jpg)
+![](../../.gitbook/assets/hello-phaser-logo1-preview%20%281%29.jpg)
 
 ## Set Anchor for Image
 
@@ -139,5 +139,5 @@ Preview the game in your code editor. Depending on your code editor, you might n
 
 Your game should display the Phaser logo image visually centered on the game canvas.
 
-![](../../.gitbook/assets/hello-phaser-logo2-preview.jpg)
+![](../../.gitbook/assets/hello-phaser-logo2-preview%20%281%29.jpg)
 
